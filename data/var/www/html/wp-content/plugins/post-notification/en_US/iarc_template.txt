@@ -1,0 +1,12 @@
+ELN Notification:
+
+@@author has written a new post on the @@date at @@time:
+@@title
+@@permalink
+
+________________________________________________________
+
+You have subscribed to these e-mail notices about new posts to the blog.
+If you want to change your settings or unsubscribe, please visit:
+
+@@conf_url

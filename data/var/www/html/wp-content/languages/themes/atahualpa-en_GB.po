@@ -1,0 +1,416 @@
+# Translation of Themes - Atahualpa in English (UK)
+# This file is distributed under the same license as the Themes - Atahualpa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-09 04:41:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Atahualpa\n"
+
+#. Description of the plugin/theme
+msgid "Atahualpa is a very customizable and browser-safe (incl. IE6) theme: Choose between fixed or flexible width layout, with min/max width, set between 0 and 4 sidebars on a per-page basis, create custom widget areas, import and export styles (several styles included), choose colors with pickers, adjust over 200 options. Atahualpa is one of the most downloaded WordPress themes and maintained since 2007. Active community at forum.bytesforall.com."
+msgstr "Atahualpa is a very customisable and browser-safe (incl. IE6) theme: choose between fixed or flexible width layout, with min/max width, set between 0 and 4 sidebars on a per-page basis, create custom widget areas, import and export styles (several styles included), choose colours with pickers, and adjust over 200 options. Atahualpa is one of the most downloaded WordPress themes and maintained since 2007. Active community at forum.bytesforall.com."
+
+#. Theme Name of the plugin/theme
+msgid "Atahualpa"
+msgstr "Atahualpa"
+
+#. Template Name of the plugin/theme
+msgid "JUGGLEDAD's multi column/custom query"
+msgstr "JUGGLEDAD's multi column/custom query"
+
+#: index.php:62 template_multi_column_custom_query.php:267
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Sorry, but you are looking for something that isn't here."
+
+#: index.php:61 template_multi_column_custom_query.php:266
+msgid "Not Found"
+msgstr "Not Found"
+
+#: functions.php:726
+msgid "Menu 2"
+msgstr "Menu 2"
+
+#: functions.php:725
+msgid "Menu 1"
+msgstr "Menu 1"
+
+#: functions.php:639
+msgid "Body copy title"
+msgstr "Body copy title"
+
+#: functions.php:626
+msgid "Meta Description"
+msgstr "Meta Description"
+
+#: functions.php:622
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+#: functions.php:618
+msgid "Meta Title"
+msgstr "Meta Title"
+
+#: functions.php:614
+msgid "Body Title Multi Post Pages"
+msgstr "Body Title Multi Post Pages"
+
+#: functions.php:612
+msgid "Body Title Single Pages"
+msgstr "Body Title Single Pages"
+
+#: functions.php:572
+msgid "Atahualpa Page Options"
+msgstr "Atahualpa Page Options"
+
+#: functions.php:570
+msgid "Atahualpa Post Options"
+msgstr "Atahualpa Post Options"
+
+#: functions/bfa_theme_options.php:3158
+msgid "Archives by Category"
+msgstr "Archives by Category"
+
+#: functions/bfa_theme_options.php:3119
+msgid "Archives by Month"
+msgstr "Archives by Month"
+
+#: functions/bfa_theme_options.php:2792
+msgid "Copyright &copy; %current-year% %home% - All Rights Reserved"
+msgstr "Copyright &copy; %current-year% %home% - All Rights Reserved"
+
+#: functions/bfa_theme_options.php:2690
+msgid "<p>Comments are closed.</p>"
+msgstr "<p>Comments are closed.</p>"
+
+#: functions/bfa_theme_options.php:2672
+msgid " &middot; Edit"
+msgstr " &middot; Edit"
+
+#: functions/bfa_theme_options.php:2578
+msgid "Continue reading %post-title%"
+msgstr "Continue reading %post-title%"
+
+#: functions/bfa_theme_options.php:2248 functions/bfa_theme_options.php:2262
+#: functions/bfa_theme_options.php:2273
+msgid "Edit this post"
+msgstr "Edit this post"
+
+#: functions/bfa_theme_options.php:2247 functions/bfa_theme_options.php:2261
+msgid "Comments are closed"
+msgstr "Comments are closed"
+
+#: functions/bfa_theme_options.php:2247 functions/bfa_theme_options.php:2261
+msgid "% comments"
+msgstr "% Comments"
+
+#: functions/bfa_theme_options.php:2247 functions/bfa_theme_options.php:2261
+msgid "One comment"
+msgstr "One comment"
+
+#: functions/bfa_theme_options.php:2246 functions/bfa_theme_options.php:2260
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: functions/bfa_theme_options.php:2246 functions/bfa_theme_options.php:2260
+#: functions/bfa_theme_options.php:2273
+msgid "Category:"
+msgstr "Category:"
+
+#: functions/bfa_theme_options.php:2245 functions/bfa_theme_options.php:2259
+#: functions/bfa_theme_options.php:2272
+msgid "Tags: "
+msgstr "Tags:"
+
+#: functions/bfa_theme_options.php:1614
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Older Comments"
+
+#: functions/bfa_theme_options.php:1604
+msgid "Newer Comments &raquo;"
+msgstr "Newer Comments &raquo;"
+
+#: functions/bfa_theme_options.php:1564
+msgid "Older Entries &raquo;"
+msgstr "Older Entries &raquo;"
+
+#: functions/bfa_theme_options.php:1545
+msgid "&laquo; Newer Entries"
+msgstr "&laquo; Newer Entries"
+
+#: functions/bfa_theme_options.php:1067
+msgid "Home"
+msgstr "Home"
+
+#: functions/bfa_theme_options.php:1014
+msgid "Subscribe by EMAIL"
+msgstr "Subscribe by Email"
+
+#: functions/bfa_theme_options.php:1006
+msgid "By Email"
+msgstr "By Email"
+
+#: functions/bfa_theme_options.php:988
+msgid "Subscribe to the COMMENTS feed"
+msgstr "Subscribe to the Comments feed"
+
+#: functions/bfa_theme_options.php:980
+msgid "Comments"
+msgstr "Comments"
+
+#: functions/bfa_theme_options.php:962
+msgid "Subscribe to the POSTS feed"
+msgstr "Subscribe to the Posts feed"
+
+#: functions/bfa_theme_options.php:954
+msgid "Posts"
+msgstr "Posts"
+
+#: functions/bfa_recent_comments.php:336 functions/bfa_recent_comments.php:337
+msgid "BFA Recent Comments"
+msgstr "BFA Recent Comments"
+
+#: functions/bfa_recent_comments.php:334
+msgid "Lists the most recent comments"
+msgstr "Lists the most recent comments"
+
+#: functions/bfa_recent_comments.php:171 functions/bfa_recent_comments.php:173
+#: functions/bfa_recent_comments.php:175 functions/bfa_recent_comments.php:177
+msgid " on: "
+msgstr " on: "
+
+#: functions/bfa_recent_comments.php:163 functions/bfa_recent_comments.php:165
+#: functions/bfa_recent_comments.php:167 functions/bfa_recent_comments.php:169
+msgid "On: "
+msgstr "On: "
+
+#: functions/bfa_post_parts.php:63
+msgid "Permanent Link"
+msgstr "Permanent Link"
+
+#: functions/bfa_post_parts.php:39 functions/bfa_post_parts.php:71
+msgid "Permanent Link to "
+msgstr "Permanent Link to "
+
+#: functions/bfa_popular_posts.php:148 functions/bfa_popular_posts.php:149
+msgid "BFA Popular posts"
+msgstr "BFA Popular posts"
+
+#: functions/bfa_popular_posts.php:146
+msgid "Lists most commented posts overall"
+msgstr "Lists most commented posts overall"
+
+#: functions/bfa_popular_in_cat.php:132 functions/bfa_popular_in_cat.php:133
+msgid "BFA Popular in Cat"
+msgstr "BFA Popular in Cat"
+
+#: functions/bfa_popular_in_cat.php:130
+msgid "Lists most commented posts of given category"
+msgstr "Lists most commented posts of given category"
+
+#: functions/bfa_meta_tags.php:112
+msgid "404 - Page not found"
+msgstr "404 - Page not found"
+
+#: functions/bfa_meta_tags.php:103
+msgid "F Y"
+msgstr "F Y"
+
+#: functions/bfa_meta_tags.php:100
+msgid "l, F jS, Y"
+msgstr "l, F jS, Y"
+
+#: functions/bfa_hor_cats.php:41
+msgid "View all posts filed under"
+msgstr "View all posts filed under"
+
+#: functions/bfa_calendar_widget.php:13 functions/bfa_calendar_widget.php:14
+msgid "Calendar"
+msgstr "Calendar"
+
+#: functions/bfa_calendar_widget.php:12
+msgid "A calendar of your blog's posts"
+msgstr "A calendar of your blog's posts"
+
+#: footer.php:100 footer.php:106 footer.php:126 footer.php:132
+msgid " seconds."
+msgstr " seconds."
+
+#: footer.php:100 footer.php:106 footer.php:126 footer.php:132
+msgid " queries. "
+msgstr " queries. "
+
+#: footer.php:78
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:77
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+
+#: footer.php:71
+msgid "Meta"
+msgstr "Meta"
+
+#: footer.php:22 header.php:116
+msgid "Archives"
+msgstr "Archives"
+
+#: footer.php:16 header.php:109
+msgid "Categories"
+msgstr "Categories"
+
+#: comments.php:127
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:126
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: comments.php:125
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: comments.php:119
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+
+#: comments.php:118
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: comments.php:98
+msgid "(will not be published) (required)"
+msgstr "(will not be published) (required)"
+
+#: comments.php:98
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:41 comments.php:49 comments.php:59
+msgid "Log in to Reply"
+msgstr "Log in to Reply"
+
+#: comments.php:40 comments.php:48 comments.php:58
+#: functions/bfa_theme_options.php:2664
+msgid " &middot; Reply"
+msgstr " &middot; Reply"
+
+#: comments-paged.php:205
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: comments-paged.php:196 comments.php:106
+msgid "You can use %1$sthese HTML tags</a>"
+msgstr "You can use %1$sthese HTML tags</a>"
+
+#: comments-paged.php:189 comments.php:100
+msgid "Website"
+msgstr "Website"
+
+#: comments-paged.php:189
+msgid "url"
+msgstr "URL"
+
+#: comments-paged.php:184
+msgid "Mail (will not be published) "
+msgstr "Mail (will not be published)"
+
+#: comments-paged.php:184
+msgid "email"
+msgstr "Email"
+
+#: comments-paged.php:180 comments-paged.php:185 comments.php:96
+msgid "(required)"
+msgstr "(required)"
+
+#: comments-paged.php:179 comments.php:96
+msgid "Name "
+msgstr "Name"
+
+#: comments-paged.php:179
+msgid "author"
+msgstr "Author"
+
+#: comments-paged.php:172
+msgid "Logout &raquo;"
+msgstr "Logout &raquo;"
+
+#: comments-paged.php:172
+msgid "Log out of this account"
+msgstr "Log out of this account"
+
+#: comments-paged.php:169
+msgid "Logged in as %s."
+msgstr "Logged in as %s."
+
+#: comments-paged.php:157
+msgid "You must be %slogged in</a> to post a comment."
+msgstr "You must be %slogged in</a> to post a comment."
+
+#: comments-paged.php:153 comments.php:124
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: comments-paged.php:140
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments-paged.php:75 comments-paged.php:105
+msgid "Edit"
+msgstr "Edit"
+
+#: comments-paged.php:68 comments-paged.php:102
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: comments-paged.php:68 comments-paged.php:102
+#: functions/bfa_custom_comments.php:22
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: comments-paged.php:61 functions/bfa_theme_options.php:2681
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: comments-paged.php:30 comments-paged.php:125 index.php:36
+#: template_multi_column_custom_query.php:227
+msgid "Pages:"
+msgstr "Pages:"
+
+#: comments-paged.php:26 comments.php:27
+msgid "% comments to "
+msgstr "% comments to "
+
+#: comments-paged.php:25 comments.php:27
+msgid "1 comment to "
+msgstr "1 comment to "
+
+#: comments-paged.php:25 comments.php:26
+msgid "No comments yet to "
+msgstr "No comments yet to "
+
+#: comments-paged.php:7 comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: comments-paged.php:3 comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Please do not load this page directly. Thanks!"
+
+#. Author URI of the plugin/theme
+msgid "http://forum.bytesforall.com/"
+msgstr "http://forum.bytesforall.com/"
+
+#. Author of the plugin/theme
+msgid "BytesForAll"
+msgstr "BytesForAll"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.bytesforall.com/"
+msgstr "http://wordpress.bytesforall.com/"

@@ -1,0 +1,27 @@
+p.eln-info::before {
+	content: "\f330";
+	font: normal 20px/.5 dashicons;
+	display: inline-block;
+	color: #5b9dd9;
+	padding: 0;
+	top: 4px;
+	left: -4px;
+	position: relative;
+	vertical-align: top;
+}
+p.editor-info {
+	font-size: 14px;
+	font-weight: 600;
+	padding: 9px;
+}
+p.editor-info::before {
+	content: "\f348";
+	font: normal 22px/.6 dashicons;
+	display: inline-block;
+	color: #ec0027;
+	padding: 0;
+	top: 4px;
+	left: -4px;
+	position: relative;
+	vertical-align: top;
+}

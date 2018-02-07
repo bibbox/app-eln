@@ -1,0 +1,252 @@
+# Translation of the WordPress plugin Login Configurator 1.6 by GrandSlambert.
+# Copyright (C) 2011 GrandSlambert
+# This file is distributed under the same license as the Login Configurator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Login Configurator 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/login-configurator\n"
+"POT-Creation-Date: 2011-02-11 01:35-0600\n"
+"PO-Revision-Date: 2011-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/footer.php:19
+msgid "Plugin Information"
+msgstr ""
+
+#: includes/footer.php:22
+msgid ""
+"This page sets the defaults for the plugin. Each of these settings can be "
+"overridden when you add an index to your page."
+msgstr ""
+
+#: includes/footer.php:23
+msgid "You are using"
+msgstr ""
+
+#: includes/footer.php:28
+msgid "Usage"
+msgstr ""
+
+#: includes/footer.php:31
+#, php-format
+msgid ""
+"See the %2s for this plugin for more details on what each of these settings "
+"does."
+msgstr ""
+
+#: includes/footer.php:32 includes/footer.php:53
+msgid "Documentation Page"
+msgstr ""
+
+#: includes/footer.php:37
+msgid "Recent Contributors"
+msgstr ""
+
+#: includes/footer.php:40
+msgid ""
+"GrandSlambert would like to thank these wonderful contributors to this "
+"plugin!"
+msgstr ""
+
+#: includes/footer.php:45
+msgid "Credits"
+msgstr ""
+
+#: includes/footer.php:49
+#, php-format
+msgid ""
+"Thank you for trying the %1$s plugin - I hope you find it useful. For the "
+"latest updates on this plugin, vist the %2$s. If you have problems with this "
+"plugin, please use our %3$s or check out the %4$s."
+msgstr ""
+
+#: includes/footer.php:51
+msgid "official site"
+msgstr ""
+
+#: includes/footer.php:52
+msgid "Support Forum"
+msgstr ""
+
+#: includes/footer.php:59
+#, php-format
+msgid "This plugin is &copy; %1$s by %2$s and is released under the %3$s"
+msgstr ""
+
+#: includes/footer.php:62
+msgid "GNU General Public License"
+msgstr ""
+
+#: includes/footer.php:69
+msgid "Donate"
+msgstr ""
+
+#: includes/footer.php:72
+#, php-format
+msgid ""
+"If you find this plugin useful, please consider supporting this and our "
+"other great %1$s."
+msgstr ""
+
+#: includes/footer.php:72
+msgid "plugins"
+msgstr ""
+
+#: includes/footer.php:73
+msgid "Donate a few bucks!"
+msgstr ""
+
+#: includes/settings/administration.php:19 includes/settings.php:28
+msgid "Administration"
+msgstr ""
+
+#: includes/settings/administration.php:25
+msgid "Reset to default: "
+msgstr ""
+
+#: includes/settings/administration.php:30
+msgid "Back-up Options: "
+msgstr ""
+
+#: includes/settings/administration.php:34
+msgid "Restore Options: "
+msgstr ""
+
+#: includes/settings/form_mods.php:19 includes/settings.php:27
+msgid "Form Modifications"
+msgstr ""
+
+#: includes/settings/form_mods.php:24
+msgid "Text Box Title"
+msgstr ""
+
+#: includes/settings/form_mods.php:28
+msgid "CSS for Text Box Title"
+msgstr ""
+
+#: includes/settings/form_mods.php:32
+msgid "Text Box Content"
+msgstr ""
+
+#: includes/settings/form_mods.php:36
+msgid "CSS for Text Box Content"
+msgstr ""
+
+#: includes/settings/form_mods.php:40
+msgid "Logo URL"
+msgstr ""
+
+#: includes/settings/form_mods.php:44
+msgid "Leave blank to use the default Wordpress Logo."
+msgstr ""
+
+#: includes/settings/form_mods.php:48
+msgid "Logo Link"
+msgstr ""
+
+#: includes/settings/form_mods.php:51
+msgid "Leave blank to use the default Wordpress site."
+msgstr ""
+
+#: includes/settings/options.php:19 login-configurator.php:238
+msgid "Settings"
+msgstr ""
+
+#: includes/settings/options.php:24
+msgid "Force Login?"
+msgstr ""
+
+#: includes/settings/options.php:27
+msgid "<strong>OFF</strong> - Do not force login on any page."
+msgstr ""
+
+#: includes/settings/options.php:32
+msgid ""
+"<strong>ON</strong> - User must log in to see entire site, including home "
+"page."
+msgstr ""
+
+#: includes/settings/options.php:37
+msgid ""
+"<strong>TEASER</strong> - Allow non logged in users to see the home page, "
+"but force login on all other pages."
+msgstr ""
+
+#: includes/settings/options.php:42
+msgid ""
+"<strong>POSTS</strong> - Only force login when a user wants to see a full "
+"post."
+msgstr ""
+
+#: includes/settings/options.php:47
+msgid "URLs to ignore (Whitelist)"
+msgstr ""
+
+#: includes/settings/options.php:50
+msgid ""
+"List of URLs that are unprotected by this plugin. List each URL on a "
+"separate line. "
+msgstr ""
+
+#: includes/settings/options.php:54
+msgid "Ignore the feed URL?"
+msgstr ""
+
+#: includes/settings/options.php:57
+msgid "<strong>Protected</strong> - Protect the feed URL as well."
+msgstr ""
+
+#: includes/settings/options.php:62
+msgid "<strong>Ignore</strong> - Do not protect the feed URL on this blog."
+msgstr ""
+
+#: includes/settings/options.php:68
+msgid "Redirect URL"
+msgstr ""
+
+#: includes/settings/options.php:71
+msgid "Redirect to the home page"
+msgstr ""
+
+#: includes/settings.php:26 includes/settings.php:37
+msgid "Plugin Settings"
+msgstr ""
+
+#: includes/settings.php:40
+msgid "Index Press settings have been reset to defaults."
+msgstr ""
+
+#: includes/settings.php:75
+msgid "Save Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Login Configurator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://plugins.grandslambert.com/plugins/login-configurator.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Change the way your login functions work including forcing users to log in, "
+"changing the URL they go to when the login is successful, adding text to the "
+"login form, and change the logo and link on the login form."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GrandSlambert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.grandslambert.com/"
+msgstr ""

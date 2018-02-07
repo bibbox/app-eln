@@ -1,0 +1,264 @@
+# Translation of Plugins - WP-Print - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WP-Print - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-20 12:11:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WP-Print - Stable (latest release)\n"
+
+#: print-options.php:167
+msgid "Print Thumbnail?"
+msgstr "Print Thumbnail?"
+
+#. Author URI of the plugin/theme
+msgid "http://lesterchan.net"
+msgstr "http://lesterchan.net"
+
+#. Author of the plugin/theme
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin/theme
+msgid "Displays a printable version of your WordPress blog's post/page."
+msgstr "Displays a printable version of your WordPress blog's post/page."
+
+#. Plugin URI of the plugin/theme
+msgid "http://lesterchan.net/portfolio/programming/php/"
+msgstr "http://lesterchan.net/portfolio/programming/php/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Print"
+msgstr "WP-Print"
+
+#: wp-print.php:410
+msgid "Print This Page"
+msgstr "Print This Page"
+
+#: wp-print.php:409
+msgid "Print This Post"
+msgstr "Print This Post"
+
+#: wp-print.php:330
+msgid "URLs in this post:"
+msgstr "URLs in this post:"
+
+#: wp-print.php:319
+msgid "Comments Hidden"
+msgstr "Comments Hidden"
+
+#: wp-print.php:316
+msgid "Comments Disabled"
+msgstr "Comments Disabled"
+
+#: wp-print.php:313
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comment"
+msgstr[1] "%s Comments"
+
+#: wp-print.php:311
+msgid "No Comments"
+msgstr "No Comments"
+
+#: wp-print.php:243
+msgid ","
+msgstr ","
+
+#: wp-print.php:223 wp-print.php:288
+msgid "Image"
+msgstr "Image"
+
+#: wp-print.php:143
+msgid "Note: There is a print link embedded within this post, please visit this post to print it."
+msgstr "Note: There is a print link embedded within this post, please visit this post to print it."
+
+#: wp-print.php:42 wp-print.php:362
+msgid "Print"
+msgstr "Print"
+
+#: print-posts.php:143
+msgid "No posts matched your criteria."
+msgstr "No posts matched your criteria."
+
+#: print-posts.php:137
+msgid "to print."
+msgstr "to print."
+
+#: print-posts.php:136
+msgid "here"
+msgstr "here"
+
+#: print-posts.php:135
+msgid "Click"
+msgstr "Click"
+
+#: print-posts.php:134
+msgid "Click here to print."
+msgstr "Click here to print."
+
+#: print-posts.php:123
+msgid "URL to article"
+msgstr "URL to article"
+
+#: print-posts.php:114
+msgid "Article printed from"
+msgstr "Article printed from"
+
+#: print-posts.php:78
+msgid "In"
+msgstr "In"
+
+#: print-posts.php:64
+msgid "Posted By"
+msgstr "Posted By"
+
+#: print-options.php:196
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: print-options.php:186
+msgid "Disclaimer/Copyright Text?"
+msgstr "Disclaimer/Copyright Text?"
+
+#: print-options.php:176
+msgid "Print Videos?"
+msgstr "Print Videos?"
+
+#: print-options.php:158
+msgid "Print Images?"
+msgstr "Print Images?"
+
+#: print-options.php:149
+msgid "Print Links?"
+msgstr "Print Links?"
+
+#: print-options.php:144 print-options.php:153 print-options.php:162
+#: print-options.php:171 print-options.php:180
+msgid "No"
+msgstr "No"
+
+#: print-options.php:143 print-options.php:152 print-options.php:161
+#: print-options.php:170 print-options.php:179
+msgid "Yes"
+msgstr "Yes"
+
+#: print-options.php:140
+msgid "Print Comments?"
+msgstr "Print Comments?"
+
+#: print-options.php:132 print-options.php:188
+msgid "Restore Default Template"
+msgstr "Restore Default Template"
+
+#: print-options.php:131
+msgid "URL to the print icon you have chosen above."
+msgstr "URL to the print icon you have chosen above."
+
+#: print-options.php:130
+msgid "Print text link of the post/page that you have typed in above."
+msgstr "Print text link of the post/page that you have typed in above."
+
+#: print-options.php:129
+msgid "URL to the printable post/page."
+msgstr "URL to the printable post/page."
+
+#: print-options.php:128 print-options.php:191
+msgid "HTML is allowed."
+msgstr "HTML is allowed."
+
+#: print-options.php:124
+msgid "Custom"
+msgstr "Custom"
+
+#: print-options.php:123
+msgid "Print Text Link Only"
+msgstr "Print Text Link Only"
+
+#: print-options.php:122
+msgid "Print Icon Only"
+msgstr "Print Icon Only"
+
+#: print-options.php:121
+msgid "Print Icon With Text Link"
+msgstr "Print Icon With Text Link"
+
+#: print-options.php:118
+msgid "Print Text Link Style"
+msgstr "Print Text Link Style"
+
+#: print-options.php:89
+msgid "Print Icon"
+msgstr "Print Icon"
+
+#: print-options.php:83
+msgid "Print Text Link For Page"
+msgstr "Print Text Link For Page"
+
+#: print-options.php:77
+msgid "Print Text Link For Post"
+msgstr "Print Text Link For Post"
+
+#: print-options.php:74
+msgid "Print Styles"
+msgstr "Print Styles"
+
+#: print-options.php:61 wp-print.php:419
+msgid "Copyright &copy; %s %s. All rights reserved."
+msgstr "Copyright &copy; %s %s. All rights reserved."
+
+#: print-options.php:37
+msgid "No Print Option Updated"
+msgstr "No Print Option Updated"
+
+#: print-options.php:32
+msgid "Updated"
+msgstr "Updated"
+
+#: print-options.php:27 print-options.php:73 print-options.php:137
+msgid "Print Options"
+msgstr "Print Options"
+
+#: print-comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: print-comments.php:22 print-posts.php:71
+msgid "%s @ %s"
+msgstr "%s @ %s"
+
+#: print-comments.php:22 print-posts.php:68
+msgid "On"
+msgstr "On"
+
+#: print-comments.php:22
+msgid "By"
+msgstr "By"
+
+#: print-comments.php:22
+msgid "Pingback"
+msgstr "Pingback"
+
+#: print-comments.php:22
+msgid "Trackback"
+msgstr "Trackback"
+
+#: print-comments.php:22
+msgid "Comment"
+msgstr "Comment"
+
+#: print-comments.php:19
+msgid "To"
+msgstr "To"
+
+#: print-comments.php:17
+msgid "Close"
+msgstr "Close"
+
+#: print-comments.php:17
+msgid "Open"
+msgstr "Open"

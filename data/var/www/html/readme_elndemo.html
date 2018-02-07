@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>WordPress &#8250; ReadMe</title>
+	<link rel="stylesheet" href="wp-admin/css/install.css?ver=20100228" type="text/css" />
+</head>
+<body>
+<h1 id="logo">
+	<a href="https://wordpress.org/"><img alt="WordPress" src="wp-admin/images/wordpress-logo.png" /></a>
+</h1>
+<p style="text-align: center"><b>ELN Demo Website</b></p>
+
+<h2>ELN - Electronic (Laboratory) Notebook</h2>
+<p>Welcome! The Electronic Laboratory Notebook (ELN), designed first to replace the Paper Laboratory Notebook, is also an easy and useful way to keep notes of your daily work whether it's laboratory related or not. It is adapted to everyone: biologist, epidemiologist, statistician, IT developers, ... and is an easy way to share secure information with colleagues.
+The ELN is based on WordPress. It contains a child theme of Atahualpa and a plugin, IARC Customization, that personalizes WordPress and some plugins used by the ELN. This demo version has been tested with WordPress 4.9.2
+</p>
+<p style="text-align: right">&#8212; Lucile Alteyrac</p>
+
+<h2>Source</h2>
+<ol>
+	<li><a href="https://wordpress.org/">WordPress 4.9.2</a></li>
+	<li>Theme:</li>
+		<ul>
+			<li><a href="https://wordpress.org/themes/atahualpa/">Atahualpa 3.7.24</a></li>
+			<li>Ataiarc (child theme) 1.0.0</li>
+		</ul>
+	<li>Mandatory Plugins:
+		<ul>
+			<li>Collapsing Categories 2.1.2</li>
+			<li>IARC Customization 1.1</li>
+			<li>Login Configurator 2.0</li>
+			<li>Role Scoper 1.4.4</li>
+			<li>WP-PageNavi 2.92</li>
+		</ul>
+	</li>
+	<li>Recommended Plugins:
+		<ul>
+			<li>Category Wise Search Widget 1.3</li>
+			<li>Last Updated Posts Widget 0.5.1</li>
+			<li>My Link Order 3.5</li>
+			<li>Post Notification 1.2.40</li>
+			<li>TinyMCE Advanced 4.6.7</li>
+			<li>WP Favorite Posts 1.6.6</li>
+			<li>WP-Print 2.58</li>
+		</ul>
+	</li>
+</ol>
+
+<h2>Configuration</h2>
+<p>After the installation, WordPress, the theme and some plugins have been configured.</p>
+<ol>
+	<li>WordPress
+		<ul>
+			<li>General</li>
+			<li>Reading</li>
+			<li>Discussion</li>
+			<li>Permalinks</li>
+		</ul>
+	</li>
+	<li>Theme
+		<ul>
+			<li>Activation of Ataiarc</li>
+			<li>Import of settings from file <a href="wp-content\themes\ataiarc\ata-theme-options-for-ELN.txt">ata-theme-options-for-ELN.txt</a></li>
+		</ul>
+	</li>
+	<li>Widgets
+		<ul>
+			<li><i>(Left Sidebar)</i> Collapsing Categories, Recent Posts, Last Updated Posts Widget, Recent Comments</li>
+			<li><i>(Right Sidebar)</i> Category Wise Search, My link order (Management), Text [Subscribe to Posts], Archives, Calendar, User's Favorites</li>
+		</ul>
+	</li>
+	<li>Plugins
+		<ul>			
+			<li><i>(Configuration Mandatory)</i> Login Configurator</li>
+			<li><i>(Configuration Recommended)</i> IARC Customization</li>
+			<li><i>(Configuration Recommended)</i> TinyMCE Advanced: import of settings from file <a href="wp-content\plugins\iarc-custom\settings\tinymce-settings.txt">tinymce-settings.txt</a></li>
+			<li><i>(Configuration Recommended)</i> Post Notification</li>
+			<li><i>(Configuration Optional)</i> WP Favorite Posts</li>
+			<li><i>(Configuration Optional)</i> Print</li>
+			<li><i>(Configuration Optional)</i> PageNavi</li>
+		</ul>
+	</li>
+</ol>
+
+<h2>Content</h2>
+<p>Content has been added to this demo:</p>
+<ol>
+	<li>Categories (the WP categories are named "Notebooks" in the ELN):
+		<ul>
+			<li>Biobank</li>
+			<ul>
+				<li>Shipment</li>
+				<li>Storage</li>
+			</ul>
+			<li>Laboratories</li>
+			<ul>
+				<li>Mass spectrometry</li>
+				<li>PCR</li>
+			</ul>
+		</ul>
+	</li>
+	<li>Role Groups:
+		<ul>
+			<li>Biobank Group</li>
+			<li>Lab Group</li>
+		</ul>
+	</li>
+	<li>Users:
+		<ul>
+			<li><b>elnadmin</b>: WordPress Administrator</li>
+			<li><b>elnsupervisor</b>: Read-only user, with an access to all notebooks</li>
+			<li>[Biobank Group] <b>biobankadm</b>: read+write access to all Biobank Group's notebooks</li>
+			<li>[Lab Group] <b>labtech</b>: Lab Group's notebooks read-only user</li>
+			<li>[Lab Group] <b>mstech</b>: Lab Group's notebooks read-only user, can write in Mass Spectrometry notebook</li>
+			<li>[Lab Group] <b>pcrtech</b>: Lab Group's notebooks read-only user, can write in PCR notebook</li>
+		</ul>
+	</li>
+	<li>Pages:
+		<ul>
+			<li><a href="http://elndemo">Home Page</a></li>
+			<li><a href="http://elndemo/user-guide">User Guide</a></li>
+		</ul>
+	</li>
+	<li>Posts: Some posts have been created, so the notebooks will be listed in the "Notebooks" widget</li>
+	<li>Links: Creation of the links used in the "Management" widget</li>
+</ol>
+
+<p>The configuration of permissions for Groups and Users is done with the plugin <a href="https://wordpress.org/plugins/role-scoper/">Role Scoper</a>.</p>
+
+<h2>Online Resources</h2>
+<p>The code source of the IARC theme and custom plugin is available on <a href="https://github.com/alteyracl/ELN">GitHub</a></p>
+
+<h2>License</h2>
+<p>WordPress is free software, and is released under the terms of the <abbr title="GNU General Public License">GPL</abbr> version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
+
+</body>
+</html>

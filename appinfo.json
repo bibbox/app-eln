@@ -1,0 +1,10 @@
+{
+		"name": "A long name of the Application, shown in the App Store",
+		"short_name": "APP short name",
+		"version": "V.1.0",
+		"description": "Long description of the Application shown in Store, can be multiline",
+        "short_description": "Short description of the Application shown in Store",
+		"catalogue_url": "URL to biobankapps, if applicaple",
+		"application_url": "URL to App official gace",
+		"tags": ["Tag1", "Tag2"]
+}

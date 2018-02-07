@@ -1,0 +1,16 @@
+p.admin-bar-title {
+	font-weight: bold;
+}
+
+label.admin-bar {
+	padding-right: 15px;
+}
+
+th {
+	font-weight: normal;
+}
+
+th,td {
+	padding-right: 20px;
+	text-align: left;
+}
